@@ -1,7 +1,7 @@
 # Bakery_lending
 
-    * [DEMO LINK](https://bogdanparubchenk01.github.io/Creative_Bakery-lending/)
-    * [Figma Desing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?type=design&node-id=0-1&mode=design)
+    - [DEMO LINK](https://bogdanparubchenk01.github.io/Creative_Bakery-lending/)
+    - [Figma Desing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?type=design&node-id=0-1&mode=design)
 
 ## 🛠 Used Technology
   - `HTML`
